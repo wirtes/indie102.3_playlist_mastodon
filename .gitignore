@@ -1,3 +1,13 @@
+# CUSTOM EXCLUDES FOR THIS PROJECT:
+config.py
+*.pyc
+cron_log.txt
+GWAR-me/album_art_temp_file.png
+GWAR-me/gwar-ified.png
+
+
+# EVERYTHING BELOW WAS THE GITHUB DEFAULT PYTHON STUFF:
+#
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
